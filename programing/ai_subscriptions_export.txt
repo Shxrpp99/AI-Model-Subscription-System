@@ -1,0 +1,16 @@
+Index: 0
+Model Name: sohan gurung
+Price (NPR per 1 Lakh tokens): 1200.0
+Parameter Count (billions): 11
+Context Window: scsx
+Plan Type: Personal Plan
+Prompts Remaining: 25
+========================================
+Index: 1
+Model Name: sohan gurung
+Price (NPR per 1 Lakh tokens): 1200.0
+Parameter Count (billions): 11
+Context Window: scsx
+Plan Type: Personal Plan
+Prompts Remaining: 25
+========================================
